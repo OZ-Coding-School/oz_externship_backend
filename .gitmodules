@@ -1,3 +1,6 @@
 [submodule "oz_externship_be_template"]
 	path = oz_externship_be_template
 	url = https://github.com/OZ-Coding-School/oz_externship_be_template.git
+[submodule "oz_externship_be_01"]
+	path = oz_externship_be_01
+	url = https://github.com/OZ-Coding-School/oz_externship_be_01.git
