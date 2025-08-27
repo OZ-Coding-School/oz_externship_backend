@@ -4,3 +4,6 @@
 [submodule "oz_externship_be_01"]
 	path = oz_externship_be_01
 	url = https://github.com/OZ-Coding-School/oz_externship_be_01.git
+[submodule "oz_externship_be_02"]
+	path = oz_externship_be_02
+	url = https://github.com/OZ-Coding-School/oz_externship_be_02.git
