@@ -7,3 +7,13 @@
 [submodule "oz_externship_be_02"]
 	path = oz_externship_be_02
 	url = https://github.com/OZ-Coding-School/oz_externship_be_02.git
+	branch = main
+[submodule "oz_externship_be_03"]
+	path = oz_externship_be_03
+	url = https://github.com/OZ-Coding-School/oz_externship_be_03.git
+[submodule "oz_externship_be_04"]
+	path = oz_externship_be_04
+	url = https://github.com/OZ-Coding-School/oz_externship_be_04.git
+[submodule "oz_externship_be_05"]
+	path = oz_externship_be_05
+	url = https://github.com/OZ-Coding-School/oz_externship_be_05.git
