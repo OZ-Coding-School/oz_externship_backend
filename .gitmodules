@@ -20,3 +20,6 @@
 [submodule "oz_externship_be_06"]
 	path = oz_externship_be_06
 	url = https://github.com/OZ-Coding-School/oz_externship_be_06.git
+[submodule "oz_externship_be_07"]
+	path = oz_externship_be_07
+	url = https://github.com/OZ-Coding-School/oz_externship_be_07.git
